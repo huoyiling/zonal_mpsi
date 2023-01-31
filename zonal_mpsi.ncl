@@ -10,9 +10,7 @@ load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/shea_util.ncl"         	; begin
 ;
 begin
 
-a = 6.37122e06 ;  radius of the earth
 PI=3.1415926
-g=9.8
 
 ; read in data
 ;filename="mH.tier1.CN.011.6hrly.cam2.h0.050115_FSDS_PRECT_PS_Q_QREFHT_SOLIN_T_TREFHT_TS_U_V.nc"
